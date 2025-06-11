@@ -20,6 +20,6 @@ services:
       - ${APP_DATA_DIR}/sessions:/app/.sessions
       - ${APP_DATA_DIR}/media:/app/.media
     environment:
-      WHATSAPP_HOOK_URL: http://n8n:5678/webhook/webhook
+      WHATSAPP_HOOK_URL: http://192.168.0.2:5678/webhook/waha
       WHATSAPP_DEFAULT_ENGINE: GOWS
       WHATSAPP_HOOK_EVENTS: message
