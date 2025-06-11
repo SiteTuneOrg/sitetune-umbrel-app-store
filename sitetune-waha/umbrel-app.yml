@@ -1,8 +1,8 @@
 manifestVersion: 1
 id: sitetune-waha
-name: WAHA - WhatsApp API
-tagline: that you can run in a click!
-icon: https://waha.devlike.pro/images/logo.svgcyber
+name: WAHA
+tagline: WhatsApp API that you can run in a click!
+icon: https://waha.devlike.pro/images/logo.svg
 category: Development
 version: "1.0.0"
 port: 3002
@@ -18,7 +18,10 @@ submitter: SiteTune
 submission: https://github.com/devlikeapro/waha
 repo: https://github.com/devlikeapro/waha
 support: https://github.com/devlikeapro/waha/issues
-gallery: []
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies: []
