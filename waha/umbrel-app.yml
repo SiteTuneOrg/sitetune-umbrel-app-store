@@ -1,0 +1,27 @@
+manifestVersion: 1
+id: waha
+name: WAHA - WhatsApp API
+tagline: that you can run in a click!
+icon: https://waha.devlike.pro/images/logo.svgcyber
+category: Development
+version: "1.0.0"
+port: 3002
+description: >-
+  Add your app's description here.
+
+
+  You can also add newlines!
+
+developer: SiteTune
+website: https://sitetune.com.br
+submitter: SiteTune
+submission: https://github.com/devlikeapro/waha
+repo: https://github.com/devlikeapro/waha
+support: https://github.com/devlikeapro/waha/issues
+gallery: []
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
